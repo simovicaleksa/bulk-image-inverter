@@ -3,7 +3,11 @@
 Bulk image inverter is a cross-platform tool designed to help you invert the color of a large amount of images at once.
 It is a good alternative to doing this by hand with Photoshop or other photo editing software.
 
-<img width="702" height="532" alt="image" src="https://github.com/user-attachments/assets/59e14fe9-1d0d-43be-ab79-c674a9dfe17a" />
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/6cb970ca-30a5-4468-b17f-27b4f064db13" />
+
+## Program Preview
+
+<img width="350" height="270" alt="image" src="https://github.com/user-attachments/assets/59e14fe9-1d0d-43be-ab79-c674a9dfe17a" />
 
 ## How to use?
 1. Download the latest version for your operating system from releases page
